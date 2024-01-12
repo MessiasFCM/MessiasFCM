@@ -4,7 +4,7 @@ Hello, I'm Messias Feres, a technology enthusiast passionate about creating and 
 
 ## About Me
 
-- 🌍 Location: [Sãp João del Rei, Minas Gerais]
+- 🌍 Location: São João del Rei, Minas Gerais
 - 💼 Profession: [Your Profession]
 - 🎓 Education: [Your Education]
 - 🚀 Interests: Software Development, [Other Interests]
