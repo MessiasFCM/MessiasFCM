@@ -4,7 +4,7 @@ Hello, I'm Messias Feres, a technology enthusiast passionate about creating and 
 
 ## About Me
 
-- 🌍 Location: [Your City, Your Country]
+- 🌍 Location: [Sãp João del Rei, Minas Gerais]
 - 💼 Profession: [Your Profession]
 - 🎓 Education: [Your Education]
 - 🚀 Interests: Software Development, [Other Interests]
@@ -24,9 +24,6 @@ Connect with me:
 ## Top Languages
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MessiasFCM&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MessiasFCM&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Featured Projects
 
