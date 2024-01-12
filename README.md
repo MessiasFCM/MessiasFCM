@@ -1,41 +1,41 @@
-# Bem-vindo ao meu GitHub! 👋
+# Welcome to my GitHub! 👋
 
-Olá, eu sou Messias Feres, um entusiasta de tecnologia apaixonado por criar e aprender. Bem-vindo ao meu espaço no GitHub, onde compartilho projetos interessantes e contribuições para a comunidade de código aberto.
+Hello, I'm Messias Feres, a technology enthusiast passionate about creating and learning. Welcome to my space on GitHub, where I share interesting projects and contributions to the open-source community.
 
-## Sobre Mim
+## About Me
 
-- 🌍 Localização: [Sua Cidade, Seu País]
-- 💼 Profissão: [Sua Profissão]
-- 🎓 Formação: [Sua Formação]
-- 🚀 Interesses: Desenvolvimento de Software, [Outros Interesses]
+- 🌍 Location: [Your City, Your Country]
+- 💼 Profession: [Your Profession]
+- 🎓 Education: [Your Education]
+- 🚀 Interests: Software Development, [Other Interests]
 
-## Redes Sociais
+## Social Media
 
-Conecte-se comigo:
+Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/messiasfcm/)
-- [Twitter](https://twitter.com/seu_username)
-- [Website/Blog](https://seuwebsite.com)
+- [Twitter](https://twitter.com/your_username)
+- [Website/Blog](https://yourwebsite.com)
 
-## Estatísticas do GitHub
+## GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&hide=issues&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues&theme=dark)
 
-## Linguagens Principais
+## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos Destacados
+### Featured Projects
 
-- [Projeto 1](https://github.com/seu-username/projeto1): Uma breve descrição do projeto.
-- [Projeto 2](https://github.com/seu-username/projeto2): Outra descrição interessante.
+- [Project 1](https://github.com/your-username/project1): A brief description of the project.
+- [Project 2](https://github.com/your-username/project2): Another interesting description.
 
-## Contribuições
+## Contributions
 
-Se você quiser contribuir para meus projetos ou tiver sugestões, sinta-se à vontade para abrir issues ou pull requests.
+If you want to contribute to my projects or have suggestions, feel free to open issues or pull requests.
 
-## Agradecimentos
+## Acknowledgments
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
+Thank you for visiting my profile! Feel free to explore my projects and get in touch.
 
 Happy coding! 🚀
