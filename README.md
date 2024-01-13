@@ -17,10 +17,6 @@ Connect with me:
 - [Twitter](https://twitter.com/your_username)
 - [Website/Blog](https://yourwebsite.com)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessiasFCM&show_icons=true&count_private=true&hide=issues&theme=dark)
-
 ## Top Languages
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MessiasFCM&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
