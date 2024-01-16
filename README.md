@@ -6,6 +6,7 @@
 
 - 🌍 **Location:** São João del Rei, Minas Gerais
 - 🎓 **Education:** Computer Science Student
+- 📧 Email: messiasferes127@gmail.com
 
 ## Social Media
 
