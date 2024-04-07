@@ -8,17 +8,17 @@
   <img src="https://komarev.com/ghpvc/?username=messiasfcm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<h2 align="right">About Me</h2>
+<h2 align="left">About Me</h2>
 
-<p align="right">
+<p align="left">
   📍 <strong>Location:</strong> São João del Rei, Minas Gerais<br>
   🎓 <strong>Education:</strong> Computer Science Student<br>
   📧 <strong>Email:</strong> <a href="mailto:messiasferes127@gmail.com">messiasferes127@gmail.com</a>
 </p>
 
-<h2 align="right">Connect with Me</h2>
+<h2 align="left">Connect with Me</h2>
 
-<p align="right">
+<p align="left">
   <a href="https://linkedin.com/in/messiasfcm"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://instagram.com/messiasfcm"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://t.me/messiasfcm"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white"/></a>
@@ -27,15 +27,14 @@
 
 <h2 align="right">GitHub Stats</h2>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=messiasfcm&show_icons=true&theme=dark" alt="Messias's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=messiasfcm&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<h2 align="right">Technologies & Tools</h2>
+<h2 align="left">Technologies & Tools</h2>
 
-<p align="right">
-  <p align="right">
+<p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -60,21 +59,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </p>
 </p>
 
-<h2 align="right">Contributions</h2>
+<h2 align="left">Contributions</h2>
 
-<p align="right">
+<p align="left">
   👨‍💻 I'm always on the lookout for interesting projects to contribute to. If you have something in mind, let's connect and build something amazing together!
 </p>
 
-<h2 align="center">Acknowledgments</h2>
+<h2 align="left">Acknowledgments</h2>
 
-<p align="center">
+<p align="left">
   🙏 Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch.
 </p>
 
-<p align="center">
+<p align="left">
   🚀 Happy coding!
 </p>
