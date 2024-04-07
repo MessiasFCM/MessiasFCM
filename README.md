@@ -1,7 +1,7 @@
 <h1 align="center">Messias Feres 👨‍💻</h1>
 
 <p align="center">
-  <img src="online.gif" height="400" style="max-width: '100%'; height: auto;">
+  <img src="online.gif" height="400" style="max-width: 1000; height: auto;">
 </p>
 
 <p align="center">
