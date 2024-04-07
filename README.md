@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=messiasfcm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
 <h1 align="center">Messias Feres 👨‍💻</h1>
 
 <p align="center">
@@ -11,11 +15,6 @@
   <a href="https://discord.gg/287618916111482880"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=messiasfcm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
-
 <h2 align="left">About Me</h2>
 
 <p align="left">
@@ -24,7 +23,7 @@
   📧 <strong>Email:</strong> <a href="mailto:messiasferes127@gmail.com">messiasferes127@gmail.com</a>
 </p>
 
-<h2 align="right">GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=messiasfcm&show_icons=true&theme=dark" alt="Messias's GitHub stats" />
