@@ -3,9 +3,15 @@
 <p align="center">
   <img src="online.gif" width="500px">
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=messiasfcm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/messiasfcm"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://instagram.com/messiasfcm"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://t.me/messiasfcm"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white"/></a>
+  <a href="https://discord.gg/287618916111482880"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/></a>
 </p>
 
 <h2 align="left">About Me</h2>
@@ -14,15 +20,6 @@
   📍 <strong>Location:</strong> São João del Rei, Minas Gerais<br>
   🎓 <strong>Education:</strong> Computer Science Student<br>
   📧 <strong>Email:</strong> <a href="mailto:messiasferes127@gmail.com">messiasferes127@gmail.com</a>
-</p>
-
-<h2 align="left">Connect with Me</h2>
-
-<p align="left">
-  <a href="https://linkedin.com/in/messiasfcm"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://instagram.com/messiasfcm"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://t.me/messiasfcm"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white"/></a>
-  <a href="https://discord.gg/287618916111482880"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/></a>
 </p>
 
 <h2 align="right">GitHub Stats</h2>
