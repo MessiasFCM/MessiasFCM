@@ -8,34 +8,34 @@
   <img src="https://komarev.com/ghpvc/?username=messiasfcm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<h2 align="center">About Me</h2>
+<h2 align="right">About Me</h2>
 
-<p align="center">
+<p align="right">
   📍 <strong>Location:</strong> São João del Rei, Minas Gerais<br>
   🎓 <strong>Education:</strong> Computer Science Student<br>
   📧 <strong>Email:</strong> <a href="mailto:messiasferes127@gmail.com">messiasferes127@gmail.com</a>
 </p>
 
-<h2 align="center">Connect with Me</h2>
+<h2 align="right">Connect with Me</h2>
 
-<p align="center">
+<p align="right">
   <a href="https://linkedin.com/in/messiasfcm"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://instagram.com/messiasfcm"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://t.me/messiasfcm"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white"/></a>
   <a href="https://discord.gg/287618916111482880"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/></a>
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="right">GitHub Stats</h2>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=messiasfcm&show_icons=true&theme=dark" alt="Messias's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=messiasfcm&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<h2 align="center">Technologies & Tools</h2>
+<h2 align="right">Technologies & Tools</h2>
 
-<p align="center">
-  <p align="left">
+<p align="right">
+  <p align="right">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -63,9 +63,9 @@
   </p>
 </p>
 
-<h2 align="center">Contributions</h2>
+<h2 align="right">Contributions</h2>
 
-<p align="center">
+<p align="right">
   👨‍💻 I'm always on the lookout for interesting projects to contribute to. If you have something in mind, let's connect and build something amazing together!
 </p>
 
